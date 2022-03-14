@@ -19,7 +19,7 @@
         <dynamic_ref_qual/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>budget</field>
+        <field>orderno</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -39,12 +39,12 @@
         <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>budget</name>
+        <name>orderno</name>
         <order/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>予算</question_text>
+        <question_text>オーダー番号</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -66,16 +66,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-11-24 07:37:25</sys_created_on>
-        <sys_id>5e200ec11b44011074fcc841604bcbe1</sys_id>
+        <sys_created_on>2021-11-24 07:36:19</sys_created_on>
+        <sys_id>ad9ff5c11b44011074fcc841604bcb4b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>予算</sys_name>
+        <sys_name>オーダー番号</sys_name>
         <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
         <sys_policy/>
         <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
-        <sys_update_name>item_option_new_5e200ec11b44011074fcc841604bcbe1</sys_update_name>
+        <sys_update_name>item_option_new_ad9ff5c11b44011074fcc841604bcb4b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-24 07:37:25</sys_updated_on>
+        <sys_updated_on>2021-11-24 07:36:19</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
@@ -94,22 +94,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=5e200ec11b44011074fcc841604bcbe1"/>
-    <fx_price action="delete_multiple" query="id=5e200ec11b44011074fcc841604bcbe1"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=ad9ff5c11b44011074fcc841604bcb4b"/>
+    <fx_price action="delete_multiple" query="id=ad9ff5c11b44011074fcc841604bcb4b"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>5e200ec11b44011074fcc841604bcbe1</id>
+        <id>ad9ff5c11b44011074fcc841604bcb4b</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-11-24 07:37:25</sys_created_on>
-        <sys_id>294086c11b44011074fcc841604bcb22</sys_id>
+        <sys_created_on>2021-11-24 07:36:20</sys_created_on>
+        <sys_id>69000ec11b44011074fcc841604bcb9a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-24 07:37:25</sys_updated_on>
+        <sys_updated_on>2021-11-24 07:36:20</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -117,16 +117,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>5e200ec11b44011074fcc841604bcbe1</id>
+        <id>ad9ff5c11b44011074fcc841604bcb4b</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-11-24 07:37:25</sys_created_on>
-        <sys_id>ed4086c11b44011074fcc841604bcb21</sys_id>
+        <sys_created_on>2021-11-24 07:36:20</sys_created_on>
+        <sys_id>21000ec11b44011074fcc841604bcb9a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-24 07:37:25</sys_updated_on>
+        <sys_updated_on>2021-11-24 07:36:20</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
