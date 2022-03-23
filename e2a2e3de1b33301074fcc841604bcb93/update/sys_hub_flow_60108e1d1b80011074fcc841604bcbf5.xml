@@ -29,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>60108e1d1b80011074fcc841604bcbf5</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>AttendancCompleted</sys_name>
         <sys_overrides/>
         <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
@@ -37,7 +37,7 @@
         <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
         <sys_update_name>sys_hub_flow_60108e1d1b80011074fcc841604bcbf5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-03-14 06:04:43</sys_updated_on>
+        <sys_updated_on>2022-03-14 06:45:18</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=60108e1d1b80011074fcc841604bcbf5"/>
@@ -706,11 +706,11 @@
         <sys_created_on>2021-11-25 02:21:55</sys_created_on>
         <sys_id>61a10a9d1b80011074fcc841604bcb17</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
         <sys_policy/>
         <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_60108e1d1b80011074fcc841604bcbf5_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-11-25 02:21:55</sys_updated_on>
         <url/>
@@ -729,11 +729,11 @@
         <sys_created_on>2021-11-25 02:21:55</sys_created_on>
         <sys_id>e5a10a9d1b80011074fcc841604bcb22</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
         <sys_policy/>
         <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_60108e1d1b80011074fcc841604bcbf5_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-11-25 02:21:55</sys_updated_on>
         <url/>
@@ -752,11 +752,11 @@
         <sys_created_on>2021-11-25 02:21:55</sys_created_on>
         <sys_id>eda10a9d1b80011074fcc841604bcb1c</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
         <sys_policy/>
         <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_60108e1d1b80011074fcc841604bcbf5_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-11-25 02:21:55</sys_updated_on>
         <url/>
@@ -1328,11 +1328,11 @@
         <sys_created_on>2021-11-25 02:22:02</sys_created_on>
         <sys_id>07a14a9d1b80011074fcc841604bcb9b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Record</sys_name>
         <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
         <sys_policy/>
         <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_83a14a9d1b80011074fcc841604bcb85_current_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-11-25 02:22:02</sys_updated_on>
         <url/>
@@ -1351,11 +1351,11 @@
         <sys_created_on>2021-11-25 02:22:02</sys_created_on>
         <sys_id>4ba14a9d1b80011074fcc841604bcba5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Changed Fields</sys_name>
         <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
         <sys_policy/>
         <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_83a14a9d1b80011074fcc841604bcb85_changed_fields_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-11-25 02:22:02</sys_updated_on>
         <url/>
@@ -1374,11 +1374,11 @@
         <sys_created_on>2021-11-25 02:22:02</sys_created_on>
         <sys_id>9ba14a9d1b80011074fcc841604bcbaf</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Table Name</sys_name>
         <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
         <sys_policy/>
         <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_83a14a9d1b80011074fcc841604bcb85_table_name_en</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2021-11-25 02:22:02</sys_updated_on>
         <url/>

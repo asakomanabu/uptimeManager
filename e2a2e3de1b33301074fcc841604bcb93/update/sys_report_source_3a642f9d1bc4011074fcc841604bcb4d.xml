@@ -2,7 +2,7 @@
     <sys_report_source action="INSERT_OR_UPDATE">
         <description/>
         <display>稼働管理order1 (Uptimemgr attendanc report)</display>
-        <filter table="x_704175_uptimemgr_attendanc_report">t2_targetdate!=1a54082e1bb3301074fcc841604bcbca<item display_table="x_704175_uptimemgr_x_704175_workday" display_value="2021/12" endquery="false" field="t2_targetdate" goto="false" newquery="false" operator="!=" or="false" value="1a54082e1bb3301074fcc841604bcbca"/>
+        <filter table="x_704175_uptimemgr_attendanc_report">t2_targetdate!=1a54082e1bb3301074fcc841604bcbca<item endquery="false" field="t2_targetdate" goto="false" newquery="false" operator="!=" or="false" value="1a54082e1bb3301074fcc841604bcbca"/>
         </filter>
         <name>稼働管理order1</name>
         <sys_class_name>sys_report_source</sys_class_name>

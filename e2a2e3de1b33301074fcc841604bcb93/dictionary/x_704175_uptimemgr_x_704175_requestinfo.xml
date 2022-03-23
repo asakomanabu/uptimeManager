@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="申請情報" max_length="40" name="x_704175_uptimemgr_x_704175_requestinfo" sizeclass="2" type="collection">
+    <element label="申請情報" max_length="40" name="x_704175_uptimemgr_x_704175_requestinfo" sizeclass="1" type="collection">
         <element default="javascript:global.getNextObjNumberPadded();" label="申請番号" mandatory="true" max_length="10" name="applicationno" type="string"/>
         <element label="申請日" max_length="10" name="applied" type="string"/>
         <element label="承認日" max_length="10" name="approved" type="string"/>

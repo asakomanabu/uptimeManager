@@ -6,7 +6,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-11-16 07:25:16</sys_created_on>
-            <sys_id>5dc030ee1b37301074fcc841604bcbf7</sys_id>
+            <sys_id>e01350682fd2011013b555272799b613</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>state</sys_name>
             <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
