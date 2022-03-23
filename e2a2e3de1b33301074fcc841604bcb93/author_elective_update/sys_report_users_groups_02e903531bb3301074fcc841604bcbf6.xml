@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="DELETE">
+        <group_id display_value="稼働時間マネージャー" name="稼働時間マネージャー">c2ee2c6e1b37301074fcc841604bcb74</group_id>
+        <report_id display_value="集計割り当て予算">672f761b1b73301074fcc841604bcb9b</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-19 02:29:46</sys_created_on>
+        <sys_id>02e903531bb3301074fcc841604bcbf6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>672f761b1b73301074fcc841604bcb9b</sys_name>
+        <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
+        <sys_update_name>sys_report_users_groups_02e903531bb3301074fcc841604bcbf6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-19 02:29:46</sys_updated_on>
+        <user_id/>
+    </sys_report_users_groups>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</application>
+        <file_path/>
+        <instance_id>34782355db1fd7400e785d00cf9619b0</instance_id>
+        <instance_name>dev64682</instance_name>
+        <name>sys_report_users_groups_02e903531bb3301074fcc841604bcbf6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id display_value="稼働時間マネージャー" name="稼働時間マネージャー">c2ee2c6e1b37301074fcc841604bcb74</group_id>
+        <report_id display_value="集計割り当て予算">672f761b1b73301074fcc841604bcb9b</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-19 02:29:46</sys_created_on>
+        <sys_id>02e903531bb3301074fcc841604bcbf6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>672f761b1b73301074fcc841604bcb9b</sys_name>
+        <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
+        <sys_update_name>sys_report_users_groups_02e903531bb3301074fcc841604bcbf6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-19 02:29:46</sys_updated_on>
+        <user_id/>
+    </sys_report_users_groups>
+</record_update>]]></payload>
+        <payload_hash>-766978563</payload_hash>
+        <record_name>672f761b1b73301074fcc841604bcb9b</record_name>
+        <reverted_from/>
+        <source>651350682fd2011013b555272799b6c9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-14 06:45:31</sys_created_on>
+        <sys_id>e543dc682fd2011013b555272799b68a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f872cbfe40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-14 06:45:31</sys_updated_on>
+        <type>Report Users and Groups</type>
+        <update_guid>2543dc68ead20110b3ae8a67b7c1a68a</update_guid>
+        <update_guid_history>2543dc68ead20110b3ae8a67b7c1a68a:0,315258e4bdd2011008b268e69f180fe0:601847182,c5cb1f581d120110bf1a80b480039374:0,71d91b94de120110aa23f3ed0bd7166f:320536868,af09eb2dbdc001100d061295f678d65c:0,62bffaa91e40011008d3ca2cb633341e:1267109980,acd1eed53ec001103cf79764d5781a24:-766978563</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-23 07:27:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_report_users_groups">sys_report_users_groups</sys_db_object>
+        <sys_id>3dac1fb12463469c93875612bdcb3f10</sys_id>
+        <sys_metadata>02e903531bb3301074fcc841604bcbf6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>672f761b1b73301074fcc841604bcb9b</sys_name>
+        <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
+        <sys_parent display_value="集計割り当て予算">672f761b1b73301074fcc841604bcb9b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
+        <sys_scope_delete display_value="">6c266e2f824844469a3d1046c86ce331</sys_scope_delete>
+        <sys_update_name>sys_report_users_groups_02e903531bb3301074fcc841604bcbf6</sys_update_name>
+        <sys_update_version display_value="sys_report_users_groups_02e903531bb3301074fcc841604bcbf6">e543dc682fd2011013b555272799b68a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-23 07:27:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

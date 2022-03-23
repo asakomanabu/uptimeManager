@@ -7,7 +7,7 @@
 
 }]]></client_script_v2>
         <comments/>
-        <condition>gs.hasRole('x_704175_uptimemgr._user')</condition>
+        <condition>gs.hasRole('x_704175_uptimemgr.user')</condition>
         <form_action>true</form_action>
         <form_button>true</form_button>
         <form_button_v2>false</form_button_v2>
@@ -132,7 +132,7 @@ function setRedirectFields(gotoURL) {
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e3c819761bf3301074fcc841604bcb5b</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Delete</sys_name>
         <sys_overrides/>
         <sys_package display_value="稼働時間管理" source="x_704175_uptimemgr">e2a2e3de1b33301074fcc841604bcb93</sys_package>
@@ -140,7 +140,7 @@ function setRedirectFields(gotoURL) {
         <sys_scope display_value="稼働時間管理">e2a2e3de1b33301074fcc841604bcb93</sys_scope>
         <sys_update_name>sys_ui_action_e3c819761bf3301074fcc841604bcb5b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-11-17 05:04:21</sys_updated_on>
+        <sys_updated_on>2022-03-17 04:33:56</sys_updated_on>
         <table>x_704175_uptimemgr_x_704175_requestinfo</table>
         <ui11_compatible>false</ui11_compatible>
         <ui16_compatible>false</ui16_compatible>
